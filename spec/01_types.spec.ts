@@ -285,8 +285,8 @@ The end.`;
                 firstName: 'Sam',
                 lastName: 'Rockwell',
                 role: 'That clone dude in moon',
-                alsoPlayed: 'GW Bush'
-
+                alsoPlayed: 'GW Bush',
+                eyeColor: 'blue'
             };
         });
     });
